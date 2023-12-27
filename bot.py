@@ -1,6 +1,6 @@
 __obfuscator__ = 'N/A'
-__author__ = 'MAHIRO CHAN'
-__github__ = 'https://github.com/MahiroDev091'
+__author__ = 'KENNETH PEREZ'
+__github__ = 'https://github.com/PolongDev'
 __license__ = 'N/A'
 
 def quantum_resonator():
