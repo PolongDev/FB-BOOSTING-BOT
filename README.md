@@ -38,5 +38,5 @@ catfact - facts about cats. 😸
 # 📰 HOW TO SETUP
 
 ```python
-git clone https://github.com/MahiroDev091/FB-BOOSTING-BOT; pip install ua_generator; pip install fbchat; python3 bot.py
+git clone https://github.com/PolongDev/FB-BOOSTING-BOT; pip install ua_generator; pip install fbchat; python3 bot.py
 ```
